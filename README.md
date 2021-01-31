@@ -24,7 +24,7 @@
 -	**Source of this description**:  
 	[docker-mariadb repo's `/` directory](https://github.com/isdnetworks/docker-mariadb) ([history](https://github.com/isdnetworks/docker-mariadb/commits/master))  
 
-# CentOS
+# MariaDB
 
 Customized build of MariaDB.
 -	Default locale: ko-KR.UTF-8
